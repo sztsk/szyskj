@@ -19,7 +19,7 @@
 
 /* Navbar Menus Style */
 input, select, textarea
-{	font-family: 'DroidSansRegular'; outline:none; 
+{	font-family: '微软雅黑'; outline:none;
 }
 .navbar-inner {
   min-height: 40px;
@@ -188,7 +188,7 @@ font-family: OpenSans-Regular;
 }
 .slide_content h2{
 	color: #FFFFFF;
-    font-family: 'montserratregular';
+    font-family: '微软雅黑';
     font-size: 24px;
     font-weight: normal;
     letter-spacing: 0;
